@@ -18,7 +18,11 @@ This boilerplate was developed with the following technologies:
 
 <br>
 
+## :information_source: How To Use
 
+---
+
+```bash
 # Create a project using this boilerplate
 $ yarn create next-app -e https://github.com/lpaulovt/nextjs-boilerplate
 
