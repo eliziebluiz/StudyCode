@@ -1,10 +1,10 @@
 {
-  "bg": "https://img.freepik.com/fotos-gratis/gradiente-de-tom-pastel-rosa-azul-roxo-desfocado-foto-abstrata-linhas-suaves-pantone-cor-de-fundo_49683-4059.jpg?size=626&ext=jpg&ga=GA1.2.1653692636.1611360000",
+  "bg": "https://raw.githubusercontent.com/eliziebluiz/StudyCode/main/studycode/Files/background.svg",
   "title": "StudyCode",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "image": "https://raw.githubusercontent.com/eliziebluiz/StudyCode/main/studycode/Files/Logo.svg",
       "title": "Como fazer um seletor por id via CSS?",
       "description": "Essa é pra aquecer",
       "answer": 2,
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://raw.githubusercontent.com/eliziebluiz/StudyCode/main/studycode/Files/Logo.svg",
       "title": "Como fazer um background gradiente com css?",
       "description": "Faz tempo em haha",
       "answer": 0,
