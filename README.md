@@ -2,20 +2,9 @@
     <img alt="Logo Study Code" src="https://raw.githubusercontent.com/eliziebluiz/StudyCode/main/studycode/Files/Logo.svg" width="50%"
 />
     <br>
-    NextJS Boilerplate
+    Study Code
 </h1>
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lpaulovt/nextjs-boilerplate.svg">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lpaulovt/nextjs-boilerplate.svg">
-  <a href="https://github.com/lpaulovt/nextjs-boilerplater/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lpaulovt/nextjs-boilerplate.svg">
-  </a>
-
-  <a href="https://github.com/lpaulovt/nextjs-boilerplate/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lpaulovt/nextjs-boilerplate.svg">
-  </a>
-</p>
 
 This boilerplate was developed with the following technologies:
 
