@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo Study Code" src="https://github.com/eliziebluiz/StudyCode/blob/main/studycode/Files/vers%C3%A3o1.png" width="50%"
+    <img alt="Logo Study Code" src="https://raw.githubusercontent.com/eliziebluiz/StudyCode/main/studycode/Files/Logo.svg" width="50%"
 />
     <br>
     NextJS Boilerplate
