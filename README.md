@@ -10,73 +10,15 @@ This boilerplate was developed with the following technologies:
 
 - [NextJS]()
 - [ReactJS]()
-- [Typescript]()
+- [JavaScript]()
 - [Styled-components](https://www.styled-components.com/)
-- [Next-PWA]()
-- [Storybook]()
-- [Jest]()
 - [React Testing Library]()
 - [Babel]()
-- [EsLint]()
-- [Prettier]()
-- [EditorConfig]()
 - [VS Code](vscode)
 
 <br>
 
-## :memo: File Structure
 
----
-
-```bash
-nextjs-boilerplate
-├── node_modules/
-├── .next/
-├── .jest/
-│   └── setup.ts
-├── .storybook/
-│   ├── main.js
-│   └── preview.js
-├── public/
-│   ├── img/
-│   │   └── images.*
-│   ├── manifest.json
-│   ├── sw.js
-│   └── workbox*.js
-├── src/
-│   ├── components/
-│   │   └── Component/
-│   │        ├─── index.tsx
-│   │        ├─── stories.tsx
-│   │        ├─── styles.ts
-│   │        └─── test.tsx
-│   ├── pages/
-│   │   ├── _app.tsx
-│   │   ├── _document.tsx
-│   │   └── index.tsx
-│   └── styles/
-│       └── global.ts
-├── .babelrc
-├── .editorconfig
-├── .eslintrc.json
-├── .gitignore
-├── .prettierrc
-├── jest.config.js
-├── next-env.d.ts
-├── next.config.js
-├── .package.json
-├── README.md
-├── tsconfig.json
-└── yarn.lock
-```
-
-<br>
-
-## :information_source: How To Use
-
----
-
-```bash
 # Create a project using this boilerplate
 $ yarn create next-app -e https://github.com/lpaulovt/nextjs-boilerplate
 
