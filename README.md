@@ -26,7 +26,7 @@ This boilerplate was developed with the following technologies:
 $ yarn create next-app -e https://github.com/eliziebluiz/StudyCode.git
 
 # ✔ What is your project named?
-$ project-name
+$ Study Code
 
 # Install dependencies
 $ yarn install
@@ -36,9 +36,6 @@ $ yarn dev
 
 # Run tests
 $ yarn test:watch
-
-# Run storybook
-$ yarn storybook
 
 # Run build
 $ yarn build
