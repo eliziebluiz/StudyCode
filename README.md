@@ -5,7 +5,6 @@
     Study Code
 </h1>
 
-
 This boilerplate was developed with the following technologies:
 
 - [NextJS]()
@@ -24,7 +23,7 @@ This boilerplate was developed with the following technologies:
 
 ```bash
 # Create a project using this boilerplate
-$ yarn create next-app -e https://github.com/lpaulovt/nextjs-boilerplate
+$ yarn create next-app -e https://github.com/eliziebluiz/StudyCode.git
 
 # ✔ What is your project named?
 $ project-name
