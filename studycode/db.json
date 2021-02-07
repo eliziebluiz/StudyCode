@@ -1,28 +1,47 @@
 {
   "bg": "https://raw.githubusercontent.com/eliziebluiz/StudyCode/main/studycode/Files/background.svg",
   "title": "StudyCode",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "description": "Teste os seus conhecimentos sobre várias tecnologias!",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-      "title": "Qual a diferença entre = , == e === ?",
+      "image": "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif",
+      "title": "No javascript é possível interagir com o console dos navegadores. O comando para imprimir o texto “TJ-RN” no console é:",
       "description": "Pergunta fácil em!",
-      "answer": 1,
+      "answer": 2,
       "alternatives": [
-        "São a mesma coisa",
-        "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
+        "console.dump('TJ-RN')",
+        "console.print('TJ-RN')",
+        "console.log('TJ-RN')",
+        "console.echo('TJ-RN')"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-      "title": "Que tipos de dados são suportados em JavaScript?",
+      "image": "https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif",
+      "title": "No CSS, os seletores são nomenclaturas padronizadas destinadas a selecionar elementos para aplicação de estilo. O seletor “.nome” seleciona os elementos que possuem",
       "description": "E agora? Você sabe?",
-      "answer": 0,
+      "answer": 2,
       "alternatives": [
-        "Number, String, Undefined, Null e Bool.",
-        "Int, String, Undefined, Null e Bool."
+        "o atributo id=“nome”.",
+        "o atributo name=“nome”.",
+        "o atributo class=“nome”.",
+        "a tag <nome>.",
+        "a tag <nome> e são filhos do elemento raiz."
       ]
     },
+
+    {
+      "image": "https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif",
+      "title": "Em documentos HTML/XHTML, vários elementos usam os atributos padrões class, id, style e title. Um exemplo de elemento que não dispõe destes atributos é:",
+      "answer": 3,
+      "alternatives": [
+        "<p>",
+        "<i>",
+        "<b>",
+        "<head>",
+        "<input>"
+      ]
+    },
+
     {
       "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
       "title": "Qual a diferença de window e global?",
@@ -33,13 +52,22 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
+      "image": "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif",
       "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
       "answer": 1,
       "alternatives": [
         "JSONHttpRequest",
         "XMLHttpRequest",
         "fetch"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/mBhfvDOd7n8FPGBs6B/giphy.gif",
+      "title": "Julgue o item quanto à programação orientada a objetos e à linguagem de programação Python. Na estrutura de um programa em Python, as instruções contêm expressões que, por sua vez, criam e processam objetos.",
+      "answer": 1,
+      "alternatives": [
+        "Certo",
+        "Errado"
       ]
     }
   ],
